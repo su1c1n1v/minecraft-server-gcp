@@ -1,5 +1,13 @@
+
 <div align="center">
   <h1>Minecraft Server GCP</h1>
+
+  ![Alt Text](https://media.giphy.com/media/2PWBLDJ2KtB1X6o9vY/giphy.gif)
+  
+  <a href="#about">About</a> •
+  <a href="#getting-started">Getting Started</a> •
+  <a href="#built-with">Built With</a> •
+  <a href="#author">Author</a> •
 </div>
 
 ## About
@@ -58,7 +66,7 @@ In the Create a firewall rule
 After create the Rule go to VM instances and copy the External IP and write in your Minecraft, in the end of the External API, add the port (25565).
 
 
-## Built in
+## Built with
 
 - [Google Cloud Platform](https://cloud.google.com/)
 - [Docker](https://www.docker.com/)
