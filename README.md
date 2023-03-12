@@ -1,8 +1,9 @@
 
 <div align="center">
-  <h1>Minecraft Server GCP</h1>
 
   ![Alt Text](https://media.giphy.com/media/2PWBLDJ2KtB1X6o9vY/giphy.gif)
+  
+  <h1>Minecraft Server GCP</h1>
   
   <a href="#about">About</a> •
   <a href="#getting-started">Getting Started</a> •
